@@ -1,0 +1,410 @@
+---
+layout: layouts/mat3100WF25.njk
+---
+
+<h1>MAT 3100W: Introduction to Mathematical Proof</h1>
+<h2>Fall 2025</h2>
+
+<p>Welcome to "Introduction to Mathematical Proof!"</p>
+
+<h2>Course Information</h2>
+<ul>
+  <li>In-person</li>
+  <li>Mondays and Wednesdays</li>
+  <li>Monday, August 25th&ndash;Wednesday, December 3rd</li>
+  <li>11:00 AM&ndash;12:50 PM</li>
+  <li>Building 8, Room 250</li>
+  <li><a href="https://discord.com/channels/1329209051501822074">Discord server</a> (<a href="https://discord.gg/K9UdU8ktEM">Invitation</a>)</li>
+</ul>
+
+<h3>Instructor information</h3>
+<p>
+Prof. Peter Kagey (KAY-ghee, he/they).<br>
+Email: <a href="mailto:pkagey@cpp.edu">pkagey@cpp.edu</a><br>
+Personal phone: (503) 810-6537 (for emergency use)<br>
+<i>You can call me  "Prof. Kagey," "Dr. Kagey," "Professor," or "Peter."</i></p>
+</p>
+
+<h3>Student drop-in hours</h3>
+<p>
+  I strongly encourage you to come to the student drop-in hours (i.e. "office hours" or "open hours") that are set aside for you in my calendar.
+Visiting student hours is one of the best ways you can spend your time to support your learning in college.
+</p>
+<ul>
+  <li>Mondays 2:00 PM&ndash;3:00 PM (Building 94, Room 218)</li>
+  <li>Wednesdays 10:00 AM&ndash;11:00 AM (Building 94, Room 218)</li>
+  <li>Wednesdays 2:15 PM&ndash;3:15 PM (<a href="https://www.cpp.edu/makerstudio/index.shtml">Maker Studio</a>, Library)</li>
+  <li>Thursday 11:00AM &ndash;12:00PM (<a href="https://cpp.zoom.us/j/5036560744">Zoom room</a>: 503 656 0744)</li>
+  <li>By appointment via <a href="https://calendly.com/profkagey">calendly.com/profkagey</a></li>
+</ul>
+
+<h3>Course description</h3>
+<p>
+  An introduction to upper division mathematics, the reading and writing of proofs, and the fundamentals of abstract mathematics. Methods of proof include direct and indirect proofs and proof by induction. Propositional logic and quantifiers. Mathematical topics to be covered include integers, rational and real numbers, sets, relations, functions, and cardinality.
+</p>
+
+<h3>Course objectives and student learning outcomes</h3>
+<ol>
+  <li>Students will learn to identify the logical structure of mathematical statements and apply appropriate strategies to prove those statements.</li>
+  <li>Students learn methods of proof including direct and indirect proofs (contrapositive, contradiction) and induction.</li>
+  <li>Students learn the basic structures of mathematics, including sets, functions, equivalence relations, and the basics of counting formulas.</li>
+  <li>Students will be able to prove multiply quantified statements.</li>
+  <li>Students will be exposed to well-known proofs, like the irrationality of \(\sqrt 2\) and the uncountability of the reals.</li>
+</ol>
+
+<h3>Expanded description</h3>
+<ul>
+  <li>Propositional logic, truth tables, DeMorgan's Laws</li>
+  <li>Sets, set operations, Venn diagrams, indexed collections of sets</li>
+  <li>Conventions of writing proofs</li>
+  <li>Proofs</li>
+  <ul>
+    <li>Direct proofs</li>
+    <li>Contrapositive proofs</li>
+    <li>Proof by cases</li>
+    <li>Proof by contradiction</li>
+    <li>Existence and Uniqueness proofs</li>
+    <li>Proof by Induction</li>
+  </ul>
+  <li>Quantifiers</li>
+  <ul>
+    <li>Proving universally and existentially quantified statements</li>
+    <li>Disproving universally and existentially quantified statements</li>
+    <li>Proving and disproving multiply quantified statements</li>
+  </ul>
+  <li>Number systems and basic mathematical concepts</li>
+  <ul>
+    <li>The natural numbers and the integers, divisibility, and modular arithmetic</li>
+    <li>Counting: combinations and permutations, factorials</li>
+    <li>Rational numbers, the irrationality of \(\sqrt 2\)</li>
+    <li>Real numbers, absolute value, and inequalities</li>
+  </ul>
+  <li>Relations and functions</li>
+  <ul>
+    <li>Relations, equivalence relations</li>
+    <li>Functions</li>
+    <li>Injections, surjections, bijections</li>
+  </ul>
+  <li>Cardinality</li>
+  <ul>
+    <li>Countable and uncountable sets</li>
+    <li>Countability of the rational numbers, \(\mathbb Q\)</li>
+    <li>Uncountability of the real numbers, \(\mathbb R\)</li>
+  </ul>
+</ul>
+<h3>Textbooks and resources</h3>
+<p>We will be using the low-cost textbook <a href="https://longformmath.com/proofs-book/"><i>Proofs: A Long-Form Mathematics Textbook</i></a> by Jay Cummings.</p>
+
+<p>You will need reliable access to computer and internet to get assigned readings and activities from Canvas and other websites, and to turn in assignments. Please let me know if you need help accessing this technology so we can connect you with campus resources.</p>
+
+<h2>Grading</h2>
+<p>
+  The grade in this course is intended to reflect your learning, growth, and hard work.
+</p>
+<p>
+  Spending time working on problems is essentially the only way to learn mathematics deeply. As such, homework will constitute 55% of the credit in this class, with each assignment representing 5% of the total course grade.
+</p>
+<p>
+  Homework assignments will be graded within one week of the due date, with an arbitrary subset of the problems graded for correctness and the rest graded for completeness.
+</p>
+<div style="display: flex; gap: 1rem; justify-content: center;">
+<table class="grade-breakdown-table">
+  <tr><td>Homework</td><td>55%</td></tr>
+  <tr><td>In-class participation</td><td>15%</td></tr>
+  <tr><td>Term paper</td><td>20%</td></tr>
+  <tr><td>Final project</td><td>10%</td></tr>
+</table>
+<table>
+  <tr><td>A</td><td>≥ 93</td></tr>
+  <tr><td>A-</td><td>≥ 90</td></tr>
+  <tr><td>B+</td><td>≥ 87</td></tr>
+  <tr><td>B</td><td>≥ 83</td></tr>
+  <tr><td>B-</td><td>≥ 80</td></tr>
+  <tr><td>C</td><td>≥ 70</td></tr>
+  <tr><td>D</td><td>≥ 60</td></tr>
+  <tr><td>F</td><td>&lt; 60</td></tr>
+</table>
+</div>
+
+<h3>Homework</h3>
+<p>
+  The homework will be due every Thursday at 8PM. Homework is expected to be typed up using \(\LaTeX\) and submitted via Gradescope. (I will accept handwritten homework upon request.)
+</p>
+<p>
+  Portions of each assignment will be completed during class time. A \(\LaTeX\) template will be provided for you each week on Canvas.
+</p>
+<p>
+  The homework is intended to take 150 minutes or less each week. Please reach out if you are spending more than this amount of time on the problems.
+</p>
+<p>
+  You are encouraged to collaborate with other classmates on your homework assignments, provided you acknowledge any assistance given or received. Assignments must be written up individually.
+</p>
+<h3>Term paper</h3>
+<p>
+  From weeks 6&ndash;13, you will be working on a term paper as a part of your assignments.
+</p>
+
+<h3>Project</h3>
+<p>
+  We will spend the last two weeks of the term working on and presenting group projects. The projects are intended to be open-ended explorations related to any ideas from the course that you were curious to learn more about. During the last week of the term, you will present on your project with your group.
+</p>
+
+<h3>Attendance</h3>
+<p>
+  We will be discussing ideas and working on problems collaboratively in this class, so as such, attendance is required, and will be reflected in the "participation" portion of the course grade. If you are unable to make it to class, you are encouraged to notify the instructor ahead of time in order to have the absence excused.
+</p>
+
+<h3>Make-up homework and exams</h3>
+<p>
+  You will be given opportunities to redo homework exercises and exam problems for full credit. In order to redo a problem, you will be asked to either re-submit a thorough answer-key writeup or create a video explaining your solution to other students in the class.
+</p>
+
+<h3>Late work and extensions</h3>
+<p>
+  You can email me at any point in the term to request homework extensions. Please include a proposed extension date, and please let me know if I can help
+to provide extra support to help keep you on track.
+</p>
+<p>
+  Late work is accepted for reduced credit: each problem you turn in will be graded (for full credit) if and only if they have not yet finished grading that particular problem.
+</p>
+
+<h2>Class policies</h2>
+<h3>Academic Honesty and the Student Conduct Code</h3>
+<p>
+  My goal for this class is for you to learn and grow, and your academic honesty is a crucial part of ensuring that happens. In this course, you are encouraged to ask for extensions when you need them, and you will be allowed to re-submit homework and exams for full credit.
+</p>
+<p>
+  You are encouraged to collaborate with other students, come to drop-in hours, ask questions in class, and reach out to me via email when you need help with completing homework assignments or understanding course content. When submitting work done in collaboration with others, acknowledge their contributions, and write up the ideas in your own words.
+</p>
+<p>
+  In this course, you <i>are</i> permitted to use tools such as generative AI (e.g. ChatGPT), Question and Answer sites (e.g. MathStackExchange), and other online resources (e.g. Google, GitHub) <b>given that you acknowledge your use of these tools whenever they impact your written work.</b>
+</p>
+<p>
+  If it appears to me that students are using these tools in a way that undermines their learning or engagement, I may ask individual students to stop using these tools.
+</p>
+<h2>Resources</h2>
+<h3>Disability Resource Center</h3>
+<p>
+  Many students have disabilities both visible and invisible. If you have a disability, I encourage you to reach out to the <a href="https://www.cpp.edu/drc/index.shtml">Disability Resource Center</a> to coordinate specific accommodations.
+If there are any changes that I can make this course more accessible to you, I am eager to work with you&mdash;please reach out to me via email, after class, or in drop-in hours.
+</p>
+
+<h3>Care Center</h3>
+<p>
+  <i>The <a href="https://www.cpp.edu/broncoscarecenter/">Care Center</a> is a first-stop location for any student seeking assistance with basic needs and wellbeing services.</i>
+</p>
+
+<p>
+  The Care Center can help students who need access to Housing Resources, Food Resources, Financial Resources, Clothing Assistance, Advocacy and Support, and Case Management.
+</p>
+
+<h3>Centers for Transformation, Retention, Equity and Empowerment (TREE)</h3>
+<p>
+  <i>The Centers for Transformation, Retention, Equity and Empowerment create culturally engaging community spaces to validate and elevate our students' identities, lived experiences, and cultural wealth. We use cultural and identity-based retention frameworks to support the empowerment of our students as they actualize their educational, personal, and career goals.</i>
+</p>
+
+<p>TREE is made up of six unique Cultural and Identity Centers: Asian and Pacific Islander Student Center, Black Resource Center, César E. Chávez Center for Higher Education, Native American Student Center, Pride Center, and Womxn's Resource Center.
+</p>
+
+<h3>The Learning Resource Center</h3>
+<p>
+  <i>The Learning Resource Center's mission is to promote student success by providing programs and services that advance students' critical thinking, problem solving, and analytical skills.</i>
+</p>
+
+<h2>Calendar</h2>
+<dl>
+  <dt>Week 1</dt><dd>Introduction</dd>
+  <dt>Weeks 2&ndash;4</dt><dd>Algebraic objects</dd>
+  <dt>Weeks 5&ndash;7</dt><dd>Ring theory and field theory</dd>
+  <dt>Weeks 8&ndash;10</dt><dd>Galois theory</dd>
+  <dt>Weeks 11&ndash;13</dt><dd>Group representation theory</dd>
+  <dt>Weeks 14&ndash;15</dt><dd>Group projects and presentations</dd>
+</dl>
+
+<!-- Week 1 -->
+<table class="weekly-calendar">
+  <tr>
+    <td rowspan="2">1</td>
+    <td>August 25th</td>
+    <td>Introduction to Introduction to Mathematical Proof</td>
+  </tr>
+  <tr>
+    <td style="display:none"></td>
+    <td>August 27th</td>
+    <td>
+      Course overview and syllabus <br>
+      Introduction to \(\LaTeX\)
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">2</td>
+    <td>September 1st</td>
+    <td> <!--  style="background-color: #222; color: #ddd;" -->
+      Labor Day, no class.
+    </td>
+  </tr>
+  <tr>
+    <td style="display:none"></td>
+    <td>September 3rd</td>
+    <td><i>Homework 0 due on Thursday, September 4th at 8:00PM on Gradescope.</i></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">3</td>
+    <td>September 8th</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="display:none"></td>
+    <td>September 10th</td>
+    <td><i>Homework 1 due on Thursday, September 11th at 8:00PM on Gradescope.</i></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">4</td>
+    <td>September 15th</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="display:none"></td>
+    <td>September 17th</td>
+    <td><i>Homework 2 due on Thursday, September 18th at 8:00PM on Gradescope.</i></td>
+
+  </tr>
+
+  <tr>
+    <td rowspan="2">5</td>
+    <td>September 22nd</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="display:none"></td>
+    <td>September 24th</td>
+    <td><i>Homework 3 due on Thursday, September 25th at 8:00PM on Gradescope.</i></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">6</td>
+    <td>September 29th</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="display:none"></td>
+    <td>October 1st</td>
+    <td><i>Homework 4 due on Thursday, October 2nd at 8:00PM on Gradescope.</i></td>
+
+  </tr>
+
+  <tr>
+    <td rowspan="2">7</td>
+    <td>October 6th</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="display:none"></td>
+    <td>October 8th</td>
+    <td><i>Homework 5 due on Thursday, October 9th at 8:00PM on Gradescope.</i></td>
+
+  </tr>
+
+  <tr>
+    <td rowspan="2">8</td>
+    <td>October 13th</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="display:none"></td>
+    <td>October 15th</td>
+    <td><i>Homework 6 due on Thursday, October 16th at 8:00PM on Gradescope.</i></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">9</td>
+    <td>October 20th</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="display:none"></td>
+    <td>October 22nd</td>
+    <td><i>Homework 7 due on Thursday, October 23rd at 8:00PM on Gradescope.</i></td>
+
+  </tr>
+  <tr>
+    <td rowspan="2">10</td>
+    <td>October 27th</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="display:none"></td>
+    <td>October 29th</td>
+    <td><i>Homework 8 due on Thursday, October 30th at 8:00PM on Gradescope.</i></td>
+
+  </tr>
+  <!-- <tr>
+    <td style="text-align:center; font-size:larger;" colspan="3">
+      SPRING BREAK
+    </td>
+  </tr> -->
+  <tr>
+    <td rowspan="2">11</td>
+    <td>November 3rd</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="display:none"></td>
+    <td>November 5th</td>
+    <td><i>Homework 9 due on Thursday, November 6th at 8:00PM on Gradescope.</i></td>
+
+  </tr>
+
+  <tr>
+    <td rowspan="2">12</td>
+    <td>November 10th</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="display:none"></td>
+    <td>November 12th</td>
+    <td><i>Homework 10 due on Thursday, November 13th at 8:00PM on Gradescope.</i></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">13</td>
+    <td>November 17th</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="display:none"></td>
+    <td>November 19th</td>
+    <td><i>Term paper due Thursday, November 20th at 8PM on Gradescope.</i></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">14</td>
+    <td>November 24th</td>
+    <td>Course evaluations. <br> Group project work.</td>
+  </tr>
+  <tr>
+    <td style="display:none"></td>
+    <td>November 26th</td>
+    <td>
+      Group project work. <br>
+      Happy Thanksgiving! 🦃
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">15</td>
+    <td>December 1st</td>
+    <td>Group presentations (Part I)</td>
+  </tr>
+  <tr>
+    <td style="display:none"></td>
+    <td>December 3rd</td>
+    <td>
+      Group presentation (Part II) <br>
+      Wrap-up
+    </td>
+  </tr>
+</table>
