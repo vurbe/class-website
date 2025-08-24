@@ -5,9 +5,6 @@ layout: layouts/mat4111AF25.njk
 <h1 style="margin:0;">MAT 4111A</h1>
 <h4 style="margin:0;">Putnam Preparation</h4>
 
-
-<a href="/F25/MAT4111A/syllabus/">Syllabus</a>
-
 ## Assignments list
 <ul>
 {% for post in collections.all %}
