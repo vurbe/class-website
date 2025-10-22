@@ -1,0 +1,17 @@
+---
+title: Problems Index
+layout: layouts/base
+excludeFromCollections: true
+---
+
+<h2>Proof techniques</h2>
+<ul>
+  {% for post in collections.proof_techniques %}
+    <li>
+      <a href="{{ post.url }}">{{ post.data.title }}</a>
+      {% if post.data.week %}
+      (week {{post.data.week}})
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
