@@ -44,6 +44,7 @@ If you start at $880$ Hz (also "A") and move up a fifth, you land on $1320$ Hz (
 
 Even though $440$ Hz and $880$ Hz are in the same coset, the math remains consistent when we move between different notes.
 
+![Octave Image](Octave Image.png)
 
 
 Although music is widely considered to be an emotional and creative art form, its foundation is actually built upon symmetric group theory. By defining the relationship between frequencies as a quotient group $\mathbb{R}^+/H$, we can explain how the infinite spectrum of sound is categorized into distinct, repeating pitch classes.
